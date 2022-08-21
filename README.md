@@ -1,3 +1,3 @@
 # qr-menu
 cafe menu using qr code
-![qr code](https://imgur.com/a/EKPWli0)
+![qr](https://github.com/[gopesh3652]/[qr-menu]/blob/[main]/qr-code.png?raw=true)
