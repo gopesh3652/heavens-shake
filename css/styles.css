@@ -81,7 +81,7 @@ h2 {
 }
 
 .icon {
-    float: right;
+/*     float: right; */
     padding: 0 3px 0 3px;
     filter: invert(-100%);
 }
