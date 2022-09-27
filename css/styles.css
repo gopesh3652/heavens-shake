@@ -31,6 +31,7 @@ ul {
     margin: 10px 10px;
     background: black;
     color: white;
+    display: inline;
 }
 
 li {
@@ -81,13 +82,19 @@ h2 {
 }
 
 .icon {
-/*     float: right; */
-    padding: 0 3px 0 3px;
-    filter: invert(-100%);
+    /* float: center; */
+    padding: 3px 3px;
+    /* justify-content: center; */
+    margin: 0;
+    margin: auto;
 }
 
 footer {
     position: static;
     bottom: 0;
     width: 100%;
+}
+
+.socialLink {
+    padding: 5px 5px;
 }
